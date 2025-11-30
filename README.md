@@ -87,3 +87,15 @@ It is distinct from Data Engineering or MLOps in that it governs the **machine-l
 **Affiliation:** Holonomic Labs Ltd (United Kingdom).
 # IAOS-Architectural-Standard-for-Substrate-Engineering
 The official architectural standard and doctrinal blueprint for Substrate Engineering and the Internal AI Operating System (IAOS)
+---
+## 📚 Core Doctrine (The Full Standard)
+For the complete architectural specification and detailed analysis of the Substrate Mismatch, refer to the doctrinal chapters below:
+
+* [**01. Universal Premise:** All AI is Adjudication](doctrine/01_Universal_Premise.md)
+* [**02. The Substrate:** What AI Actually Sees](doctrine/02_The_Substrate.md)
+* [**03. Outcome Collapse:** The Mechanics of Volatility](doctrine/03_Outcome_Collapse.md)
+* [**04. The Interface Fallacy:** Why Optimization Fails](doctrine/04_Interface_Fallacy.md)
+* [**05. The Adjudication Stack:** 9-Level Hierarchy](doctrine/05_Adjudication_Stack.md)
+* [**06. Historical Validation:** The MAS Precedent](doctrine/06_Historical_Validation.md)
+* [**07. Investment Misallocation:** Infrastructure vs Application](doctrine/07_Investment_Misallocation.md)
+* [**08. Field Definition:** Substrate Engineering](doctrine/08_Field_Definition.md)
