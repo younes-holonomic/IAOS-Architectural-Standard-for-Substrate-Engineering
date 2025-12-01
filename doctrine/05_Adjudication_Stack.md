@@ -1,6 +1,6 @@
 # SECTION 5 — The Substrate Architecture: The Full Adjudication Stack
 
-Modern AI systems do not see teams or intentions. They see only the substrate processed through a multi-layer adjudication stack. To understand Substrate Engineering, one must understand this entire hierarchy exactly as it exists in MAS, KAS, and IAS.
+Modern AI systems do not see teams or intentions. They see only the substrate processed through a multi-layer adjudication stack. To understand AI Substrate Engineering, one must understand this entire hierarchy exactly as it exists in MAS, KAS, and IAS.
 
 ## Level 0 — Reality Layer
 (Invisible to AI)
@@ -44,4 +44,4 @@ The flattened 1D representation: CPC, ROAS, Charts, Answers, Alerts.
 (Where Humans Destroy Trust)
 Human reactions to Level 7 (budget edits, deletions, panic decisions, prompt churn). Everything here flows back to Level 0, often creating volatility that degrades Level 2.
 
-**Summary:** Without Substrate Engineering, the substrate, the entire stack works against the enterprise. Not because the AI is malicious, but because the entity is not machine-legible.
+**Summary:** Without AI Substrate Engineering, the substrate, the entire stack works against the enterprise. Not because the AI is malicious, but because the entity is not machine-legible.
