@@ -1,4 +1,4 @@
-# SECTION 6 — MAS Was the First: Substrate Engineering Is Already a Decade Overdue
+# SECTION 6 — MAS Was the First: AI Substrate Engineering Is Already a Decade Overdue
 
 The structural mismatch enterprises face with AI today is not new. The first global-scale AI adjudication environment existed long before LLMs: **Marketing Algorithmic Systems (MAS).**
 
@@ -17,4 +17,4 @@ The same universal adjudication core that governed MAS now sits inside **KAS** (
 * The mismatch has expanded from one domain to all domains.
 * MAS was not an anomaly. It was the earliest proof that **AI cannot scale an organization it cannot read.**
 
-**Summary:** The substrate engineering MAS needed ten years ago — the one that would have prevented a decade of volatility — is the same substrate AI needs today across KAS and IAS.
+**Summary:** The AI substrate engineering MAS needed ten years ago — the one that would have prevented a decade of volatility — is the same substrate AI needs today across KAS and IAS.
