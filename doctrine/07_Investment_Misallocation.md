@@ -1,4 +1,4 @@
-# SECTION 7 — The Investment Misallocation: Scaling AI Requires Substrate Engineering
+# SECTION 7 — The Investment Misallocation: Scaling AI Requires AI Substrate Engineering
 
 Capital continues to flow into "more AI" (models, agents, copilots) while the root failure condition remains untouched: **the enterprise is not expressing itself in a machine-readable substrate.**
 
