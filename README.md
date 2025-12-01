@@ -1,6 +1,6 @@
 # IAOS: Internal AI Operating System (Architectural Standard)
 
-**Holonomic Labs Ltd | Substrate Engineering Research**
+**Holonomic Labs Ltd | AI Substrate Engineering Research**
 *Version 1.0.0 (Doctrinal Blueprint)*
 
 ## 1. Overview
@@ -12,7 +12,7 @@ KAS — Knowledge Assistant Systems (LLMs, retrieval + generative interfaces)
 
 IAS — Internal AI Systems (enterprise copilots, workflow agents, automation pilots)
 
-This repository serves as the **Doctrinal Blueprint** for the IAOS and Substrate Engineering standard. Unlike traditional software repositories focused on execution code, this repository houses the **governance schemas, semantic taxonomies, and signal logic** required to render an enterprise machine-legible.
+This repository serves as the **Doctrinal Blueprint** for the IAOS and AI Substrate Engineering standard. Unlike traditional software repositories focused on execution code, this repository houses the **governance schemas, semantic taxonomies, and signal logic** required to render an enterprise machine-legible.
 
 ## 2. Core Thesis: The Substrate Mismatch
 Modern AI systems (MAS, KAS, IAS) do not perceive organizations; they perceive only the substrate the organization emits.
@@ -71,14 +71,14 @@ To render an enterprise machine-legible, the IAOS architecture governs the subst
 * **Level 8: Feedback Injection Layer:** Human reactions to Level 7 (Edits, Resets, Budget Changes). *Improper injection here creates volatility at Level 2, degrading the Trust State.*
 
 ## 5. Historical Validation (The MAS Precedent)
-Substrate Engineering is not a theoretical discipline; it is derived from a decade-long longitudinal study of **Marketing Algorithmic Systems (MAS)**.
+AI Substrate Engineering is not a theoretical discipline; it is derived from a decade-long longitudinal study of **Marketing Algorithmic Systems (MAS)**.
 
 MAS represents the first global-scale autonomous adjudication environment. Empirical analysis of this ecosystem (N=15,109 cases) revealed that **~75% of commercial entities fail to scale profitably** not due to market dynamics, but due to **Substrate Unreadability**.
 
 The structural failures identified in MAS (volatility, cost inflation, trust collapse) are now replicating identically in **KAS** (LLMs) and **IAS** (Internal Agents). IAOS is the architectural response to this universal failure mode.
 
 ## 6. Definition of the Field
-**Substrate Engineering** is the enterprise-wide discipline of aligning a business’s signals, semantics, systems, economics, and behaviors into a coherent, trust-complete substrate that AI systems can interpret, adjudicate, and scale profitably.
+**AI Substrate Engineering** is the enterprise-wide discipline of aligning a business’s signals, semantics, systems, economics, and behaviors into a coherent, trust-complete substrate that AI systems can interpret, adjudicate, and scale profitably.
 
 It is distinct from Data Engineering or MLOps in that it governs the **machine-legibility of the entity**, rather than the performance of the model.
 
@@ -86,7 +86,7 @@ It is distinct from Data Engineering or MLOps in that it governs the **machine-l
 **Maintainer:** Younes Benzaza, Founder & Systems Architect.
 **Affiliation:** Holonomic Labs Ltd (United Kingdom).
 # IAOS-Architectural-Standard-for-Substrate-Engineering
-The official architectural standard and doctrinal blueprint for Substrate Engineering and the Internal AI Operating System (IAOS)
+The official architectural standard and doctrinal blueprint for AI Substrate Engineering and the Internal AI Operating System (IAOS)
 ---
 ## 📚 Core Doctrine (The Full Standard)
 For the complete architectural specification and detailed analysis of the Substrate Mismatch, refer to the doctrinal chapters below:
