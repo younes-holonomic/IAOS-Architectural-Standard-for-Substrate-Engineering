@@ -1,9 +1,9 @@
-# SECTION 8 — SUBSTRATE ENGINEERING: The Field Definition
+# SECTION 8 — AI SUBSTRATE ENGINEERING: The Field Definition
 
-This is the canonical definition of Substrate Engineering as a new enterprise discipline.
+This is the canonical definition of AI Substrate Engineering as a new enterprise discipline.
 
 ## 1. Formal Definition
-**Substrate Engineering** is the enterprise-wide discipline of aligning a business’s signals, semantics, systems, economics, and behaviors into a coherent, **trust-complete substrate** that AI systems can interpret, adjudicate, and scale profitably across MAS, KAS, and IAS.
+**AI Substrate Engineering** is the enterprise-wide discipline of aligning a business’s signals, semantics, systems, economics, and behaviors into a coherent, **trust-complete substrate** that AI systems can interpret, adjudicate, and scale profitably across MAS, KAS, and IAS.
 
 It transforms an organization from a *human-readable* entity into a *machine-legible*, trust-qualified substrate.
 
@@ -24,7 +24,7 @@ It transforms an organization from a *human-readable* entity into a *machine-leg
 4.  **Profit Alignment:** IAOS economic truth models giving AI the same target as the CFO.
 
 ## 5. Relationship to IAOS
-* **Substrate Engineering** = The Field (The Doctrine/Rules).
+* **AI Substrate Engineering** = The Field (The Doctrine/Rules).
 * **IAOS** = The Artifact (The Tool/Implementation).
 
-**Summary:** Substrate Engineering is the missing layer between what businesses emit and what AI can trust. It is the discipline that allows organizations to scale across MAS, KAS, and IAS with the same universal core.
+**Summary:** AI Substrate Engineering is the missing layer between what businesses emit and what AI can trust. It is the discipline that allows organizations to scale across MAS, KAS, and IAS with the same universal core.
