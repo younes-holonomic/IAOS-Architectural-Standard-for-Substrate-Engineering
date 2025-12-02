@@ -6,11 +6,9 @@
 ## Overview
 Modern AI systems — whether in **Marketing Algorithmic Systems (MAS)**, **Knowledge Assistant Systems (KAS)**, or **Internal AI Systems (IAS)** — do not interact with organizations as humans do.
 
-  MAS (Marketing Algorithmic Systems: auctions, ranking, bidding)
-
-  KAS (Knowledge Assistant Systems: LLMs, retrieval + generation)
-
-  IAS (Internal AI Systems: enterprise copilots, workflow agents)
+* **MAS** (Marketing Algorithmic Systems: auctions, ranking, bidding)
+* **KAS** (Knowledge Assistant Systems: LLMs, retrieval + generation)
+* **IAS** (Internal AI Systems: enterprise copilots, workflow agents)
 
 They do not see intention, strategy, or hierarchy. **They see only a substrate.**
 
