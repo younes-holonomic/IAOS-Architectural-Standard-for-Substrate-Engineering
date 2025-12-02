@@ -99,3 +99,5 @@ For the complete architectural specification and detailed analysis of the Substr
 * [**06. Historical Validation:** The MAS Precedent](doctrine/06_Historical_Validation.md)
 * [**07. Investment Misallocation:** Infrastructure vs Application](doctrine/07_Investment_Misallocation.md)
 * [**08. Field Definition:** Substrate Engineering](doctrine/08_Field_Definition.md)
+* ### Special Research Note
+* [**The Governance Bridge:** From Enterprise-Level Substrate Engineering to International AI Governance](doctrine/Research_Note_The_Governance_Bridge.md)
