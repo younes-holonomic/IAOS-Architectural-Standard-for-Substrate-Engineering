@@ -22,6 +22,8 @@ Empirical analysis of **N=15,109** industrial cases indicates that AI misalignme
 * **Result:** Agents default to proxy optimization (clicks, impressions, token probabilities) rather than economic truth.
 * **Solution:** A strict, machine-legible constraint layer (IAOS).
 
+* > **Note on Terminology:** For clarity, this standard uses the term ‘agent’ the way governance literature does: *any AI system performing optimization over an objective.* In the Holonomic framework, this corresponds to MAS, KAS, and IAS operating under their respective membranes.
+
 ## 3. The Five Syntaxes (Universal Grammar)
 To achieve a **Trust-Complete** state, a substrate must explicitly encode five distinct syntaxes. An AI agent cannot safely optimize an environment where these are implicit.
 
