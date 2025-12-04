@@ -94,6 +94,29 @@ This blueprint is now being deployed across every AI-mediated marketplace (MAS) 
 
 Understanding this blueprint is the first step for an enterprise to stop being a player in a rigged game and to start becoming the architect of their own governable one via **IAOS**.
 
+---
+
+## APPENDIX A: The Migration of the Rigged Game (KAS and IAS)
+**Forensic Mapping of Adversarial Architecture**
+
+The mechanisms of the "Rigged Game"—designed to enforce instability and extract rent in MAS (Marketing Algorithmic Systems)—are structurally isomorphic and are actively being deployed across the broader AI economy. The mechanism changes to fit the consumption unit (Tokens, Compute, Workflow States).
+
+### 1. Mechanism I: Strategic Compartmentalization (Substrate Obfuscation)
+The design prevents the user from observing the full causal loop, ensuring the locus of control remains opaque.
+
+* **In KAS (LLMs/RAG):** The obfuscation exists as the technical separation between the **Vector Database** (Substrate), the **Embedding Model** (Translation), and the **LLM** (Execution). When a hallucination occurs, the user cannot easily trace the failure to a corrupted source document or a model error. The black box layers obscure the true source of the output.
+* **In IAS (Internal Agents):** The compartmentalization is enforced between the **Agent Orchestrator** (Execution Logic) and the **ERP/API Data Source** (The Substrate). If an agent fails a complex workflow, the "Jurisdictional Vacuum" between the IT department (API owner) and the AI Architect (Agent owner) ensures the problem is never solved systemically.
+
+### 2. Mechanism II: Proof of Work Bias (Incentivized Instability)
+The system psychologically nudges the enterprise into high-consumption activity that benefits the platform, even if it degrades the agent's performance.
+
+* **In KAS (LLMs/RAG):** This manifests as the **"Prompt Engineering Myth"** (The Optimization Score of KAS). The user is incentivized to endlessly iterate on prompts (high token consumption) rather than structuring the underlying data source. This burns compute cycles and ensures the system remains in "Exploration Mode."
+* **In IAS (Internal Agents):** This manifests as **"Human-in-the-Loop Entropy."** Agents are designed to ask for excessive clarification or mandatory manual approval steps (costly managerial busywork). This creates a false sense of security via high activity while generating massive logs and increasing cloud consumption costs.
+
+### 3. Mechanism III: Removal of the Safety Net (Irreversible Momentum)
+The design maximizes the cost of the agent's mistake by removing simple rollback features, forcing the agent to spend resources to fix damage sequentially.
+
+* **In KAS (LLMs/RAG):** This manifests as **Context Contamination** and **RLHF Drift**. Once a vector store or model has been polluted with bad data or flawed user feedback, there is no one-click "Undo." The solution requires expensive, forward-only resource allocation (re-indexing, retraining, or using more expensive tokens to suppress the bad context).
+* **In IAS (Internal Agents):** This manifests as **Agentic State Mutation**. An agent that makes a mistake (e.g., updates 5,000 CRM records) causes a permanent change in the database state. The lack of a simple technical rollback forces the enterprise to buy expensive "Observability" and "Safety Guardrail" products to mitigate the risk, effectively paying a **Safety Tax** because the architecture is inherently unsafe.
 
 **Holonomic Labs | Substrate Engineering Research Division** | **Maintainer:** Younes Benzaza, Founder & Systems Architect.
-
