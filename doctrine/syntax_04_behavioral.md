@@ -137,3 +137,5 @@ Behavioral Syntax influences:
 Behavioral Syntax is the machine-legible representation of enterprise stability, consistency, and coherence over time.
 It encodes how the organization behaves — not what it claims — and is a decisive trust determinant across MAS, KAS, and IAS.
 **No AI system can scale, recommend, or autonomously act on behalf of an enterprise whose Behavioral Syntax is unstable, contradictory, or incoherent.**
+
+**Holonomic Labs | Substrate Engineering Research Division** | **Maintainer:** Younes Benzaza, Founder & Systems Architect.
