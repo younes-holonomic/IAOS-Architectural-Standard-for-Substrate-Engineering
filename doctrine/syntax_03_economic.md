@@ -199,3 +199,5 @@ A Trust-Complete Economic Syntax must be:
 Economic Syntax is the machine-readable encoding of economic truth.
 It is the core determinant of trust, viability, and optimization in MAS, KAS, and IAS.
 **Without Trust-Complete Economic Syntax, no AI system can scale profitably, safely, or coherently.**
+
+**Holonomic Labs | Substrate Engineering Research Division** | **Maintainer:** Younes Benzaza, Founder & Systems Architect.
