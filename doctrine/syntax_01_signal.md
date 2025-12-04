@@ -127,3 +127,6 @@ A Trust-Complete Signal Syntax is:
 
 A Trust-Complete Signal Syntax allows MAS, KAS, and IAS to interpret the entity as stable, coherent, and safe.
 **This is the first and most critical syntax IAOS governs.**
+
+**Holonomic Labs | Substrate Engineering Research Division**
+**Maintainer:** Younes Benzaza, Founder & Systems Architect.
