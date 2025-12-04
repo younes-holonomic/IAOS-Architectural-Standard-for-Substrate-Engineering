@@ -146,3 +146,6 @@ A Trust-Complete Policy Syntax is:
 **Final Statement:** Policy Syntax is the machine-legible representation of legitimacy, safety, and trustworthiness.
 It defines the allowable action space for MAS, KAS, and IAS and governs the Authority Window.
 **Without a Trust-Complete Policy Syntax, no AI system can elevate, represent, or execute safely.**
+
+**Holonomic Labs | Substrate Engineering Research Division**
+**Maintainer:** Younes Benzaza, Founder & Systems Architect.
