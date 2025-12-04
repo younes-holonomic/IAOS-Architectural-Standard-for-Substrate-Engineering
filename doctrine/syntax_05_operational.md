@@ -116,3 +116,5 @@ This is the complete substrate exposed to AI. AI cannot see anything else. There
 Operational Syntax encodes the structural maturity of the enterprise — its systems, processes, data pathways, and execution stability.
 It determines whether AI can operate safely, predictably, and autonomously.
 **It is the ultimate ceiling on AI capability: no model, however advanced, can outperform the operational substrate it depends on.**
+
+**Holonomic Labs | Substrate Engineering Research Division** | **Maintainer:** Younes Benzaza, Founder & Systems Architect.
