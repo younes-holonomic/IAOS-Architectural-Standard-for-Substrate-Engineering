@@ -20,7 +20,7 @@ This repository contains the doctrinal blueprint, syntactic standards, and adjud
 
 ---
 
-## 1. What IAOS Is
+## 1. What IAOS is
 IAOS is not software (yet).
 
 It is:
@@ -202,35 +202,35 @@ IAOS provides the missing architectural primitives needed for:
 ## 10. How to Navigate This Repository
 
 ### Start Here (Conceptual Foundation)
-* `doctrine/01_Universal_Premise.md`
-* `doctrine/02_The_Substrate.md`
-* `doctrine/03_Outcome_Collapse.md`
+* [01_Universal_Premise.md](doctrine/01_Universal_Premise.md)
+* [02_The_Substrate.md](doctrine/02_The_Substrate.md)
+* [03_Outcome_Collapse.md](doctrine/03_Outcome_Collapse.md)
 
 ### Core Doctrine
-* `doctrine/04_Interface_Fallacy.md`
-* `doctrine/05_Adjudication_Stack.md`
-* `doctrine/06_Historical_Validation.md`
-* `doctrine/07_Investment_Misallocation.md`
-* `doctrine/08_Field_Definition.md`
+* [04_Interface_Fallacy.md](doctrine/04_Interface_Fallacy.md)
+* [05_Adjudication_Stack.md](doctrine/05_Adjudication_Stack.md)
+* [06_Historical_Validation.md](doctrine/06_Historical_Validation.md)
+* [07_Investment_Misallocation.md](doctrine/07_Investment_Misallocation.md)
+* [08_Field_Definition.md](doctrine/08_Field_Definition.md)
 
 ### Syntactic Standards (Required Reading)
-* `doctrine/syntax_01_signal.md`
-* `doctrine/syntax_02_policy.md`
-* `doctrine/syntax_03_economic.md`
-* `doctrine/syntax_04_behavioral.md`
-* `doctrine/syntax_05_operational.md`
+* [syntax_01_signal.md](doctrine/syntax_01_signal.md)
+* [syntax_02_policy.md](doctrine/syntax_02_policy.md)
+* [syntax_03_economic.md](doctrine/syntax_03_economic.md)
+* [syntax_04_behavioral.md](doctrine/syntax_04_behavioral.md)
+* [syntax_05_operational.md](doctrine/syntax_05_operational.md)
 
 ### Adjudication & Governance Layers
-* `doctrine/authority_window.md`
-* `doctrine/platform_membrane.md`
+* [authority_window.md](doctrine/authority_window.md)
+* [platform_membrane.md](doctrine/platform_membrane.md)
 
 ### Research Notes (Advanced Topics)
-* `doctrine/Research_Note_The_Governance_Bridge.md`
-* `doctrine/Research_Note_The_Law_of_Induced_Entropy.md`
-* `doctrine/Research_Note_Monetization_of_Instability.md`
-* `doctrine/Research_Note_Adversarial_Resilience.md`
-* `doctrine/Research_Note_Human_Machine_Homologation.md`
-* `doctrine/Research_Note_The_Fourth_Position.md`
+* [The Governance Bridge (International Relations)](doctrine/Research_Note_The_Governance_Bridge.md)
+* [The Law of Induced Entropy](doctrine/Research_Note_The_Law_of_Induced_Entropy.md)
+* [Monetization of Instability](doctrine/Research_Note_Monetization_of_Instability.md)
+* [Adversarial Resilience](doctrine/Research_Note_Adversarial_Resilience.md)
+* [Human Machine Homologation](doctrine/Research_Note_Human_Machine_Homologation.md)
+* [The Fourth Position](doctrine/Research_Note_The_Fourth_Position.md)
 
 ---
 
