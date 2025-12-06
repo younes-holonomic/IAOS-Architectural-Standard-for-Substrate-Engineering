@@ -9,13 +9,11 @@ It formalizes **Substrate Engineering** — the missing discipline required for 
 Modern AI systems (MAS, KAS, IAS) do not read human intent.
 **They read substrate.**
 
-* **MAS** (Marketing Algorithmic Systems: auctions, ranking, bidding)
-* **KAS** (Knowledge Assistant Systems: LLMs, retrieval + generation)
-* **IAS** (Internal AI Systems: enterprise copilots, workflow agents)
-
 IAOS defines the syntax, logic, and adjudication layers that transform an enterprise or institution from:
 * **Non-Holonomic** (path-dependent, opaque, inconsistent)
-* *into*
+  
+*into*
+
 * **Holonomic** (integrable, governable, machine-legible)
 
 This repository contains the doctrinal blueprint, syntactic standards, and adjudication architecture underpinning IAOS.
