@@ -1,114 +1,283 @@
 # IAOS: Internal AI Operating System
-**Architectural Standard for AI Substrate Engineering**
-
-**Holonomic Labs Ltd — Research Version 1.0.0**
+**Architectural Standard for Substrate Engineering**
+**Holonomic Labs Ltd | Version 1.0.0**
 
 ## Overview
-Modern AI systems — whether in **Marketing Algorithmic Systems (MAS)**, **Knowledge Assistant Systems (KAS)**, or **Internal AI Systems (IAS)** — do not interact with organizations as humans do.
+IAOS is the world’s first architectural standard for making institutions machine-legible to AI systems.
+
+It formalizes **Substrate Engineering** — the missing discipline required for safe interaction between autonomous models and commercial or sovereign actors.
+Modern AI systems (MAS, KAS, IAS) do not read human intent.
+**They read substrate.**
 
 * **MAS** (Marketing Algorithmic Systems: auctions, ranking, bidding)
 * **KAS** (Knowledge Assistant Systems: LLMs, retrieval + generation)
 * **IAS** (Internal AI Systems: enterprise copilots, workflow agents)
 
-They do not see intention, strategy, or hierarchy. **They see only a substrate.**
+IAOS defines the syntax, logic, and adjudication layers that transform an enterprise or institution from:
+* **Non-Holonomic** (path-dependent, opaque, inconsistent)
+* *into*
+* **Holonomic** (integrable, governable, machine-legible)
 
-That substrate is the machine-readable projection of the enterprise — the signals, structures, semantics, behaviors, policies, and economics that the organization emits. All AI adjudication systems operate on this substrate using one universal mechanism: **trust over machine-legible structure.**
-
-IAOS is the first architectural standard designed to make an enterprise machine-legible and trust-complete across all three AI economies.
-This repository contains the doctrinal blueprint, architectural hierarchy, and core components of IAOS as developed by Holonomic Labs Ltd.
-
-## 1. What IAOS Is
-**IAOS (Internal AI Operating System)** is a holonomic governance substrate that:
-* Encodes the real constraints, economics, and semantics of an enterprise.
-* Exposes them in a machine-readable, syntactically governed form.
-* Ensures compatibility with MAS, KAS, and IAS adjudication mechanisms.
-
-IAOS is not model training, not data engineering, and not an application layer. **It is the substrate layer that AI systems adjudicate against.**
-
-**Status:**
-* An architectural artefact (fully designed).
-* Validated through extensive applied work (**N = 15,109 observations**).
-* Now entering formalization and future tool-building.
-
-## 2. What IAOS Solves
-Across MAS, KAS, and IAS ecosystems, organizations experience the same deterministic failure modes:
-* Volatility
-* Cost inflation
-* Semantic inconsistency
-* Omission and mis-ranking
-* Non-deployable internal AI pilots
-* Reward hacking and proxy optimization
-
-**These are not model failures. They are substrate failures.**
-
-Modern AI systems adjudicate based on trust continuity, syntactic integrity, economic truth, policy alignment, and operational stability.
-When any of these dimensions are inconsistent or invisible, AI systems default to **proxy-maximization** — clicks, impressions, token likelihood, or surface-level heuristics — rather than the entity’s true constraints or intent.
-**IAOS eliminates this mismatch by governing the substrate itself.**
-
-## 3. The Holonomic Substrate
-IAOS formalizes the entire machine-facing representation of an enterprise. The substrate is structured across:
-
-* **Level 0 — Reality Layer:** The real-world economics, operations, policies, and workflows.
-* **Level 1 — Substrate Emission Layer:** Everything the enterprise emits that AI systems can ingest (telemetry, signals, logs).
-* **Level 2 — The Five Syntaxes (Universal Grammar):**
-    * *Signal Syntax:* Tracking, events, telemetry integrity.
-    * *Policy Syntax:* Compliance, safety, violation history.
-    * *Economic Syntax:* Margins, constraints, return cycles.
-    * *Behavioral Syntax:* Operational consistency, velocity, reversals.
-    * *Operational Syntax:* Infrastructure maturity, data coherence.
-* **Level 3 — Authority Window:** The long-horizon historical trust ledger.
-* **Level 4 — Platform Membrane:** The real-time decision surface (eligibility, ranking, routing).
-* **Level 5 — System-Specific Governance Layers:** Auction logic (MAS), Retrieval filters (KAS), Permissioning (IAS).
-* **Level 6 — Model Execution Layer:** The actual actuation (bids, generation).
-* **Level 7 — Presentation Layer:** What humans see (1D projection).
-* **Level 8 — Feedback Injection Layer:** Human actions that close the loop.
-
-## 4. AI Substrate Engineering (The Field)
-**AI Substrate Engineering** is the discipline created by Holonomic Labs to govern the machine-facing identity of an enterprise.
-It is not data engineering, model building, or DevOps. It is the **governance discipline** that ensures the enterprise can be correctly adjudicated by autonomous systems.
-
-**Key Focus Areas:**
-* Semantic alignment
-* Economic truth encoding
-* Syntactic governance
-* Policy-to-code translation
-* Operational consistency
-* Preventing reward hacking via holonomic constraints
-
-## 5. The Universal Adjudication Core: MAS, KAS, IAS
-Although MAS, KAS, and IAS appear unrelated, they share one universal mechanism: **They adjudicate entities based on the syntactic substrate, not intentions.**
-
-* **MAS** expresses mistrust as volatility and cost inflation.
-* **KAS** expresses mistrust as omission, mis-ranking, or hallucination.
-* **IAS** expresses mistrust as non-deployable pilots and decision drift.
-
-**This universality is the foundation of IAOS.**
-
-## 6. Governance Bridge (Research Program)
-The structural insight behind IAOS is potentially relevant for AI governance at institutional and treaty levels.
-
-**Hypothesis:** If firm-level constraints must be machine-legible to prevent proxy optimization, then treaty-level constraints may require comparable legibility to enforce compliance.
-
-This repository includes a **Research Note** exploring:
-* The structural isomorphisms between MAS/KAS/IAS adjudication and international governance challenges.
-* The hypothesis that “implicit constraints” fail at all scales.
-* The possibility that machine-legible substrates could support verification architectures.
-
-## 📚 Detailed Documentation
-For the complete architectural specification, refer to the doctrinal chapters housed in this repository:
-
-* [**01. Universal Premise:** All AI is Adjudication](doctrine/01_Universal_Premise.md)
-* [**02. The Substrate:** What AI Actually Sees](doctrine/02_The_Substrate.md)
-* [**03. Outcome Collapse:** The Mechanics of Volatility](doctrine/03_Outcome_Collapse.md)
-* [**04. The Interface Fallacy:** Why Optimization Fails](doctrine/04_Interface_Fallacy.md)
-* [**05. The Adjudication Stack:** 9-Level Hierarchy](doctrine/05_Adjudication_Stack.md)
-* [**06. Historical Validation:** The MAS Precedent](doctrine/06_Historical_Validation.md)
-* [**07. Investment Misallocation:** Infrastructure vs Application](doctrine/07_Investment_Misallocation.md)
-* [**08. Field Definition:** AI Substrate Engineering](doctrine/08_Field_Definition.md)
-
-### Special Research Note
-* [**The Governance Bridge:** From Enterprise-Level Substrate Engineering to International AI Governance](doctrine/Research_Note_The_Governance_Bridge.md)
+This repository contains the doctrinal blueprint, syntactic standards, and adjudication architecture underpinning IAOS.
 
 ---
-**Maintainer:** Younes Benzaza, Founder & Systems Architect.
-**Affiliation:** Holonomic Labs Ltd (United Kingdom).
+
+## 1. What IAOS Is
+IAOS is not software (yet).
+
+It is:
+* an architectural standard,
+* a governance protocol,
+* a substrate design language,
+* and the reference documentation for the field of AI Substrate Engineering.
+
+IAOS solves the universal failure mode across commercial and sovereign AI systems:
+**AI cannot align with what it cannot read.**
+
+Alignment therefore depends not on model behavior, but on the legibility of the environment in which the model operates.
+
+---
+
+## 2. The Three AI Economies: MAS → KAS → IAS
+IAOS emerges from forensic analysis in the “First AI Economy”:
+
+* **MAS — Marketing Algorithmic Systems** (Google Ads, Meta Ads)
+    * The longest-running real-world system where autonomous adjudication determines cost, eligibility, routing, and exposure.
+* **KAS — Knowledge Assistant Systems** (LLMs, retrieval agents, generative models)
+    * Where semantic coherence and truth continuity dominate the substrate.
+* **IAS — Internal AI Systems** (Copilots, workflow agents, automation)
+    * Where enterprise constraints, policies, economics, and operational maturity determine outcome safety.
+
+Across all three, the failure mode is identical:
+**Non-holonomic substrates induce proxy-optimization and outcome collapse.**
+
+IAOS provides the unified grammar that all three systems require.
+
+---
+
+## 3. The IAOS Adjudication Stack
+IAOS defines the full stack through which AI systems interpret and act upon an institution’s substrate:
+
+1.  **Reality Layer**
+    ↓
+2.  **Substrate Emission**
+    ↓
+3.  **Five Syntaxes**
+    ↓
+4.  **Authority Window**
+    ↓
+5.  **Platform Membrane**
+    ↓
+6.  **System-Specific Governance Layers**
+    ↓
+7.  **Model Execution Layer**
+    ↓
+8.  **Presentation Layer**
+    ↓
+9.  **Feedback Injection Layer**
+
+Each layer has a formal definition in this repository.
+This stack is necessary because AI systems do not read policy documents, strategy decks, or human intent.
+**They read syntax, signals, constraints, and historical patterns.**
+
+---
+
+## 4. The Five Syntaxes: The Universal Grammar of Governance
+IAOS formalizes governance into five syntactic dimensions.
+These are the primitives through which any AI system interprets its environment:
+
+1.  **Signal Syntax**
+    * Machine-readable truth: telemetry, continuity, identity, timestamps, coherence.
+2.  **Policy Syntax**
+    * Hard constraint surfaces: allowed / forbidden actions in executable, unambiguous logic.
+3.  **Economic Syntax**
+    * Resource reality: margins, costs, capacity, energy, chip use, scarcity constraints.
+4.  **Behavioral Syntax**
+    * Long-horizon patterns: stability, volatility, resets, reversals, rate-of-change.
+5.  **Operational Syntax**
+    * Infrastructure maturity: coherence of systems, safety capacity, security, failure tolerance.
+
+Together, the Five Syntaxes form the **interpretability surface** between human institutions and AI systems.
+They define **trust completeness** — the minimum conditions for safe delegation.
+*Each Syntax is fully defined in the `/syntax_XX_*.md` files.*
+
+---
+
+## 5. The Authority Window
+**Historical Trust Ledger**
+
+The Authority Window stores the long-horizon, machine-readable history of an actor:
+* violations
+* stability
+* behavioral reversals
+* cross-syntax inconsistencies
+* drift over time
+
+It determines:
+* maximum eligibility
+* autonomy level
+* risk posture
+* consequence profiles
+
+In MAS, this governs auction exposure.
+In governance, this becomes the reputation and commitment ledger for treaty-bound actors.
+
+---
+
+## 6. The Platform Membrane
+**Real-Time Enforcement Layer**
+
+The Platform Membrane consumes the Five Syntaxes + Authority Window to make sub-second decisions:
+* allow
+* block
+* throttle
+* rerank
+* route
+* escalate
+* flag
+
+This creates **pre-hoc enforcement**, not post-hoc punishment.
+In MAS, this prevents policy-violating ads from entering auctions.
+In international AI governance, this becomes the customs border of compute.
+
+---
+
+## 7. The Substrate Emission Model
+Before an entity can be governed, it must be readable.
+Substrate Emission defines what an enterprise or state emits:
+* signals
+* logs
+* constraints
+* operational patterns
+* semantic scaffolding
+* failure traces
+* historical consistency
+
+It formalizes the difference between:
+* *What the organization believes it is doing*
+* **vs.**
+* *What its substrate actually emits to AI systems*
+
+**Substrate Emission is the zero-point of IAOS.**
+
+---
+
+## 8. The Law of Induced Entropy
+**Why platforms destabilize actors**
+
+Derived from forensic MAS analysis, this law states:
+> **Adjudication systems evolve incentives that structurally induce instability in participants.**
+
+This is not malicious. It is systemic, arising from:
+* revenue extraction
+* safety containment
+* regulatory insulation
+* competitive moat-building
+
+The result: opacity, volatility, rule shifting, outcome destabilization.
+
+Governance must therefore protect actors **not only from themselves, but from the adjudicator.**
+This is essential for both commercial and sovereign contexts.
+
+---
+
+## 9. The Governance Bridge
+**Commercial Microcosm → International Governance Architecture**
+
+This repo includes a full research note documenting the structural isomorphism between:
+* MAS failure modes
+* KAS failure modes
+* IAS failure modes
+* Treaty verification failure modes
+
+IAOS provides the missing architectural primitives needed for:
+* zero-knowledge verification
+* federated trust ledgers
+* real-time enforcement
+* drift detection
+* sovereignty-preserving monitoring
+
+**If we cannot reliably govern actors in MAS, we cannot govern states in high-stakes AI arms races.**
+
+---
+
+## 10. How to Navigate This Repository
+
+### Start Here (Conceptual Foundation)
+* `doctrine/01_Universal_Premise.md`
+* `doctrine/02_The_Substrate.md`
+* `doctrine/03_Outcome_Collapse.md`
+
+### Core Doctrine
+* `doctrine/04_Interface_Fallacy.md`
+* `doctrine/05_Adjudication_Stack.md`
+* `doctrine/06_Historical_Validation.md`
+* `doctrine/07_Investment_Misallocation.md`
+* `doctrine/08_Field_Definition.md`
+
+### Syntactic Standards (Required Reading)
+* `doctrine/syntax_01_signal.md`
+* `doctrine/syntax_02_policy.md`
+* `doctrine/syntax_03_economic.md`
+* `doctrine/syntax_04_behavioral.md`
+* `doctrine/syntax_05_operational.md`
+
+### Adjudication & Governance Layers
+* `doctrine/authority_window.md`
+* `doctrine/platform_membrane.md`
+
+### Research Notes (Advanced Topics)
+* `doctrine/Research_Note_The_Governance_Bridge.md`
+* `doctrine/Research_Note_The_Law_of_Induced_Entropy.md`
+* `doctrine/Research_Note_Monetization_of_Instability.md`
+* `doctrine/Research_Note_Adversarial_Resilience.md`
+* `doctrine/Research_Note_Human_Machine_Homologation.md`
+* `doctrine/Research_Note_The_Fourth_Position.md`
+
+---
+
+## 11. Glossary (Canonical Definitions)
+
+* **Substrate:** The total machine-readable output of an entity.
+* **Holonomic:** Integrable and consistent enough to be governed.
+* **Non-Holonomic:** Path-dependent, ambiguous, unreadable.
+* **Syntax:** A formal dimension of machine-legible structure.
+* **Authority Window:** Long-horizon trust and violation ledger.
+* **Platform Membrane:** Real-time decision and enforcement surface.
+* **Scar Tissue:** Cumulative historical inconsistency reducing trust.
+* **Proxy Drift:** Model reliance on surface-level signals due to substrate incoherence.
+* **Re-Learning Tax:** Forced inefficiency imposed by adversarial or unstable substrate changes.
+
+---
+
+## 12. Purpose of This Repository
+This repository serves as the:
+1.  canonical doctrinal reference for IAOS
+2.  foundation of the field of Substrate Engineering
+3.  research corpus for governance scholars
+4.  architecture specification for future implementations
+
+It is the operating system beneath all autonomous systems — commercial or sovereign.
+
+---
+
+## 13. Citation
+If referencing IAOS in academic or policy work:
+
+> Benzaza, Younes. “IAOS: Internal AI Operating System – Architectural Standard for Substrate Engineering.” Holonomic Labs Ltd, 2025.
+
+---
+
+## 14. Contributions
+This discipline is emergent and open to critical review.
+Feedback and scholarly engagement are welcomed.
+
+---
+
+## 15. Contact
+**Younes Benzaza**
+Founder & Systems Architect — Holonomic Labs Ltd
+AI Substrate Engineering & IAOS Doctrine
+
+https://www.holonomiclabs.com
+younes@holonomiclabs.com
