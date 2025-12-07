@@ -224,3 +224,6 @@ the discipline of making enterprises machine-legible, trust-complete, and adjudi
 
 This architecture is universal, non-collapsible, and system-agnostic,
 rooted entirely in observable reality — **N = 15,109 empirical cases across MAS, KAS, IAS.**
+
+**Holonomic Labs | Substrate Engineering Research Division** |
+**Maintainer:** Younes Benzaza, Founder & Systems Architect.
