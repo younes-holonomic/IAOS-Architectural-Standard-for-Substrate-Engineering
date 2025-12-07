@@ -97,3 +97,6 @@ AI outcomes are not random. They are not inscrutable. They are not “black box 
 > **The substrate is the only thing AI can see.**
 > **Trust is the only thing AI can compute.**
 > **All outcomes are adjudication functions of both.**
+
+**Holonomic Labs | Substrate Engineering Research Division** |
+**Maintainer:** Younes Benzaza, Founder & Systems Architect.
