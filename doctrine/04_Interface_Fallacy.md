@@ -82,3 +82,6 @@ The half of the system humans work on is not the half where outcomes are determi
 As long as enterprises keep correcting outputs instead of inputs, optimizing interfaces instead of syntaxes, and tuning prompts instead of governing trust, AI outcomes will continue to degrade.
 
 **Outcome collapse is not a performance problem. It is the inevitable downstream expression of the interface fallacy.**
+
+**Holonomic Labs | Substrate Engineering Research Division** |
+**Maintainer:** Younes Benzaza, Founder & Systems Architect.
