@@ -53,3 +53,6 @@ Humans communicate through prompts, dashboards, workflows, and interfaces. **AI 
 The substrate is the machine-facing identity of the organization. It is the only thing AI systems can read, interpret, and adjudicate across MAS, KAS, and IAS. Trust, eligibility, cost, ranking, visibility, and model autonomy are functions of substrate integrity, not interface actions.
 
 Without a governed substrate, all AI interaction — advertising, LLM representation, internal AI pilots — remains structurally volatile. With a governed substrate, AI becomes a predictable, compounding infrastructure layer.
+
+**Holonomic Labs | Substrate Engineering Research Division** |
+**Maintainer:** Younes Benzaza, Founder & Systems Architect.
