@@ -88,5 +88,5 @@ If constraints are applied to syntaxes in isolation, the system fails. When appl
 * **Volatility** serves as a stress test for **Reliability**.
 * **Friction** serves as a proof of **Reality**.
 
-**Holonomic Labs | Substrate Engineering Research Division**
+**Holonomic Labs | Substrate Engineering Research Division** |
 **Maintainer:** Younes Benzaza, Founder & Systems Architect.
