@@ -49,3 +49,6 @@ If you need it reduced to one sentence:
 * **IAOS** = The Artifact (The Tool, The Machine-Readable Substrate, The Implementation).
 
 **Summary:** Substrate Engineering is the missing layer between what businesses emit and what AI can trust. It is the substrate discipline of the AI economy. It is the field that makes IAOS necessary.
+
+**Holonomic Labs | Substrate Engineering Research Division** |
+**Maintainer:** Younes Benzaza, Founder & Systems Architect.
