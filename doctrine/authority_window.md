@@ -186,3 +186,6 @@ The Authority Window is the temporal governance layer that transforms the Five S
 It encodes the enterprise’s trustworthiness across consistency, constraint fidelity, policy behavior, semantic stability, and operational integrity.
 This long-horizon ledger defines an entity’s authority in MAS, its specificity ceiling in KAS, and its autonomy threshold in IAS.
 **It is the machine’s memory of the enterprise.**
+
+**Holonomic Labs | Substrate Engineering Research Division** |
+**Maintainer:** Younes Benzaza, Founder & Systems Architect.
