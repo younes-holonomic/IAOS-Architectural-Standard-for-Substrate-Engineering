@@ -325,4 +325,5 @@ Founder & Systems Architect — Holonomic Labs Ltd
 AI Substrate Engineering & IAOS Doctrine
 
 https://www.holonomiclabs.com
+
 younes@holonomiclabs.com
