@@ -191,16 +191,34 @@ Derived from forensic MAS analysis, this law states:
 
 > **Adjudication systems evolve incentives that structurally induce instability in participants.**
 
-This is not malicious. It is systemic, arising from:
+This is not malfunction — it is a codified optimization strategy.
+
+Platforms optimize for their own institutional utility functions:
 
 > * revenue extraction
 > * safety containment
 > * regulatory insulation
 > * competitive moat-building
 
+To maintain these objectives, the system strategically induces entropy via:
+
+> * shifting causal pathways
+> * opacity gradients
+> * rule volatility
+> * compartmentalized control surfaces
+> * forced re-learning cycles
+> * unstable feedback loops
+
+The effect is that platform stability for itself is produced through instability for the actor.
+
+> This behavior is not random and not benign.
+> It is structurally predictable across MAS, increasingly visible in KAS,
+> and imminent in IAS as enterprises scale automation.
+
 The result: opacity, volatility, rule shifting, outcome destabilization.
 
-Governance must therefore protect actors **not only from themselves, but from the adjudicator.**
+> Governance must therefore protect actors **not only from themselves, but from the adjudicator.**
+
 This is essential for both commercial and sovereign contexts.
 
 ---
@@ -209,17 +227,19 @@ This is essential for both commercial and sovereign contexts.
 **Commercial Microcosm → International Governance Architecture**
 
 This repo includes a full research note documenting the structural isomorphism between:
-* MAS failure modes
-* KAS failure modes
-* IAS failure modes
-* Treaty verification failure modes
+
+> * MAS failure modes
+> * KAS failure modes
+> * IAS failure modes
+> * Treaty verification failure modes
 
 IAOS provides the missing architectural primitives needed for:
-* zero-knowledge verification
-* federated trust ledgers
-* real-time enforcement
-* drift detection
-* sovereignty-preserving monitoring
+
+> * zero-knowledge verification
+> * federated trust ledgers
+> * real-time enforcement
+> * drift detection
+> * sovereignty-preserving monitoring
 
 **If we cannot reliably govern actors in MAS, we cannot govern states in high-stakes AI arms races.**
 
@@ -262,24 +282,25 @@ IAOS provides the missing architectural primitives needed for:
 
 ## 11. Glossary (Canonical Definitions)
 
-* **Substrate:** The total machine-readable output of an entity.
-* **Holonomic:** Integrable and consistent enough to be governed.
-* **Non-Holonomic:** Path-dependent, ambiguous, unreadable.
-* **Syntax:** A formal dimension of machine-legible structure.
-* **Authority Window:** Long-horizon trust and violation ledger.
-* **Platform Membrane:** Real-time decision and enforcement surface.
-* **Scar Tissue:** Cumulative historical inconsistency reducing trust.
-* **Proxy Drift:** Model reliance on surface-level signals due to substrate incoherence.
-* **Re-Learning Tax:** Forced inefficiency imposed by adversarial or unstable substrate changes.
+> * **Substrate:** The total machine-readable output of an entity.
+> * **Holonomic:** Integrable and consistent enough to be governed.
+> * **Non-Holonomic:** Path-dependent, ambiguous, unreadable.
+> * **Syntax:** A formal dimension of machine-legible structure.
+> * **Authority Window:** Long-horizon trust and violation ledger.
+> * **Platform Membrane:** Real-time decision and enforcement surface.
+> * **Scar Tissue:** Cumulative historical inconsistency reducing trust.
+> * **Proxy Drift:** Model reliance on surface-level signals due to substrate incoherence.
+> * **Re-Learning Tax:** Forced inefficiency imposed by adversarial or unstable substrate changes.
 
 ---
 
 ## 12. Purpose of This Repository
 This repository serves as the:
-1.  canonical doctrinal reference for IAOS
-2.  foundation of the field of Substrate Engineering
-3.  research corpus for governance scholars
-4.  architecture specification for future implementations
+
+> 1.  canonical doctrinal reference for IAOS
+> 2.  foundation of the field of Substrate Engineering
+> 3.  research corpus for governance scholars
+> 4.  architecture specification for future implementations
 
 It is the operating system beneath all autonomous systems — commercial or sovereign.
 
