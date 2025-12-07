@@ -34,3 +34,6 @@ The mismatch has expanded from one domain to all domains.
 
 **MAS was not an anomaly. It was the earliest proof that AI cannot scale an organization it cannot read.**
 The substrate engineering MAS needed ten years ago — the one that would have prevented a decade of volatility — is the same substrate AI needs today across KAS and IAS.
+
+**Holonomic Labs | Substrate Engineering Research Division** |
+**Maintainer:** Younes Benzaza, Founder & Systems Architect.
