@@ -133,3 +133,6 @@ The Platform Membrane is the machine’s real-time decision surface.
 It integrates the Five Syntaxes (present-state truth) with the Authority Window (historical truth) to determine eligibility, risk, autonomy, and action.
 It is the universal adjudication layer that converts substrate into behavior.
 **It is the final gate before action.**
+
+**Holonomic Labs | Substrate Engineering Research Division** |
+**Maintainer:** Younes Benzaza, Founder & Systems Architect.
