@@ -327,3 +327,13 @@ AI Substrate Engineering & IAOS Doctrine
 https://www.holonomiclabs.com
 
 younes@holonomiclabs.com
+
+## COPYRIGHT & CITATION
+
+**© 2025 Holonomic Labs Ltd. All Rights Reserved.**
+
+This doctrine is published for research and governance alignment purposes.
+Commercial implementation of the IAOS architecture requires licensure from Holonomic Labs.
+
+**Citation:**
+Benzaza, Y. (2025). *IAOS: Architectural Standard for Substrate Engineering*. Holonomic Labs.
