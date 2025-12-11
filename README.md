@@ -278,6 +278,12 @@ IAOS provides the missing architectural primitives needed for:
 * [Human Machine Homologation](doctrine/Research_Note_Human_Machine_Homologation.md)
 * [The Fourth Position](doctrine/Research_Note_The_Fourth_Position.md)
 
+### IAOS In The Enterprise
+* [IAOS Applied Part I](doctrine/IAOS_Applied_Part_I.md) 
+* [IAOS Applied Part II](doctrine/IAOS_Applied_Part_II.md)
+* [IAOS Applied Part III](doctrine/IAOS_Applied_Part_III.md)
+
+
 ---
 
 ## 11. Glossary (Canonical Definitions)
