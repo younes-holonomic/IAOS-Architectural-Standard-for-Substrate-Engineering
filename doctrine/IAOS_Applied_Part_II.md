@@ -273,4 +273,6 @@ IAOS gives executives:
 
 **Leaders go from managing chaos to governing a controlled substrate.**
 
+[IAOS Applied Part III](doctrine/IAOS_Applied_Part_III.md)
+
 © 2025 Holonomic Labs Ltd. All Rights Reserved.
