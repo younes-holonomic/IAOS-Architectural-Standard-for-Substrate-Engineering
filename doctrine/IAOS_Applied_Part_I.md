@@ -281,6 +281,8 @@ This part will be expanded in full in Part III, but high-level:
 * **Phase 4 — Platform Membrane:** Start real-time adjudication.
 * **Phase 5 — Delegation to AI Systems:** Enterprise becomes holonomic: safe for automation, safe for AI.
 
+[IAOS Applied Part II](doctrine/IAOS_Applied_Part_II.md)
+
 © 2025 Holonomic Labs Ltd. All Rights Reserved.
 
 
