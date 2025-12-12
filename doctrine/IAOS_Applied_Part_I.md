@@ -1,4 +1,4 @@
-# IAOS in the Enterprise — Canonical Applied Model v1.0
+# IAOS in the Enterprise — Canonical Applied Model v1.0 – Part I
 ## How Enterprises Become Machine-Legible, Governable, and Truly AI-Ready
 **Holonomic Labs Ltd — 2025**
 
